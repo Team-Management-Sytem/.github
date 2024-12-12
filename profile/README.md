@@ -78,41 +78,41 @@ This will start the Go backend server.
 Here are the screenshots of the web's pages:
 
 1. **Sidebar and Task View**  
-   This shows the sidebar with the list of teams (you can also delete teams from the sidebar) and the tasks assigned to the current user. You can view details of the tasks, such as the title, description, and due date.
+   This shows the sidebar with the list of teams (you can also delete teams from the sidebar) and the tasks assigned to the current user.
 
-   ![alt text](image.png)
+   ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image.png)
 
 2. **Add New Team**  
-   In this section, you can create a new team by filling out the name and description. This action adds the new team to your team list.
+   In this section, you can create a new team by filling out the name and description.
    
-   ![alt text](image-1.png)
+   ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-1.png)
 
 3. **Team Details Page**  
    This screenshot displays the details of the selected team, with the ability to add users, delete users from the team, and manage tasks associated with that team.
    
-   ![alt text](image-2.png)
+   ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-2.png)
 
 4. **Edit Team Modal**  
-   This modal allows editing the team's name and description, making it easy to update team details directly from the team management page.
+   This modal allows editing the team's name and description.
    
-   ![alt text](image-3.png)
+   ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-3.png)
 
 5. **Team Management Page**  
-   Here, you can add new members to a team, delete members, and manage tasks related to the team. The edit functionality allows modifying the team's details.
-   
-   ![alt text](image-4.png)
+   Here, you can add new members to a team, delete members, and manage tasks related to the team. 
+
+   ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-4.png)
 
 6. **Add User to the Team Modal**
-   This modal allows adding a new user to a team by selecting the user from a dropdown list. It helps in managing team members effectively and assigning them to the respective teams.
+   This modal allows adding a new user to a team by selecting the user from a dropdown list.
    
-   ![alt text](image-5.png) 
+   ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-5.png) 
 
 7. **Create New Task**  
     This is the screen for creating a new task, including setting the title, description, due date, and assigning it to a user.
     
-    ![alt text](image-6.png)
+    ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-6.png)
 
 8. **Edit Task Modal**  
     When editing a task, the modal provides an interface for updating the task's details, including the assignee, due date, status, and description.
     
-    ![alt text](image-7.png)
+    ![alt text](https://github.com/Team-Management-Sytem/.github/raw/main/documentation/image-7.png)
